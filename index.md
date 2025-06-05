@@ -7,6 +7,8 @@ nav_order: 1
 # Welcome to Hack the Hood: Build!
 [Google Classroom](https://classroom.google.com/c/NzcyMTU1MzMxODkz?cjc=ryipn3jh){: .btn .btn-green }
 [Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-blue }
+[Slack Invite](https://join.slack.com/t/hthsummer/shared_invite/zt-368x8oasm-prxBH_s5kO0LqBt6Cv848Q){: .btn .btn-purple }
+
 
 Welcome to the course website for Hack the Hood's Build Program for Summer 2025 ☀️. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
