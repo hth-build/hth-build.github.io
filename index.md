@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 # Welcome to Hack the Hood: Build!
-[Google Classroom](https://classroom.google.com/c/NTg2NzU3MDk3MzAz?cjc=cjpne5d){: .btn .btn-blue }
-[Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-purple }
+[Google Classroom](https://classroom.google.com/c/NzcyMTU1MzMxODkz?cjc=ryipn3jh){: .btn .btn-blue }
+[Zoom Link (To be announced)](https://hth-build.github.io/){: .btn .btn-purple }
 
 Welcome to the course website for Hack the Hood's Build Program for Summer 2025 ☀️. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
