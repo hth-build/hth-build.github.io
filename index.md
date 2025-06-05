@@ -10,9 +10,12 @@ nav_order: 1
 
 Welcome to the course website for Hack the Hood's Build Program for Summer 2025 ☀️. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
-<b>Lectures:</b> Mondays and Wednesdays (10:00 am-12:30 pm PST)  
-<b>Learning Labs:</b> Mondays (12:30pm-1:30pm PST)
-<b>Tiger Teams:</b> Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PST)
+<b>Lectures:</b> Mondays and Thursdays (10:00 am-12:30 pm PT)
+
+<b>Learning Labs:</b> Mondays (12:30pm-1:30pm PT)
+
+<b>Tiger Teams:</b> Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PT)
+
 <b>Instructors:</b> Anas Aly (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
 ## Week 1 Announcements
