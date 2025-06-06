@@ -8,5 +8,5 @@ nav_order: 5
 </head>
 
 <body>
-  <iframe src="https://calendar.google.com/calendar/embed?src=c_classroomd2d8057c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?color=%23fbe983&src=c_classroom9da79be2@group.calendar.google.com&csspa=1" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </body>
