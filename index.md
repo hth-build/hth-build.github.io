@@ -275,7 +275,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
     <td><a href="https://docs.google.com/document/d/16sF9LL2n3wfodf62nX05lzwYkkCYvg080QZssIkTOvU/edit?usp=sharing">Final Project Guide</a>, <a href="https://docs.google.com/presentation/d/1CRhlx2SE1d6WNGfl5pkMKMkuY1QRgC9k7rmNWdatPKY/edit?usp=sharing">Final Project Example</a></td>
   </tr>
   <tr>
-    <td>Fri 12/20:</td>
+    <td></td>
     <td> Happy Graduation! </td>
     <td></td>
   </tr>
