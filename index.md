@@ -234,7 +234,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
     <td>See above</td>
   </tr>
   <tr>
-    <td>Thurs 11/21 or Sat 11/23:</td>
+    <td>Thurs 7/31:</td>
     <td><span class="label label-green">LECTURE</span>The Economics of Minority-Owned Businesses</td>
     <td><a href="">Economics of Minority-Owned Businesses Slides</a></td>
   </tr>
