@@ -26,7 +26,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 ### Reminders:
 - Relax!
 ### Tiger Team Schedule
-[Find your tiger team group]](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
+[Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
 <table>
   <tr>
     <td><b>Tiger Team Color</b></td>
