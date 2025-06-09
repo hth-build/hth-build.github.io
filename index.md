@@ -22,7 +22,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 ## Week 1 Announcements
 ### Assignments Due:
-- Nothing yet!
+- Complete Check-in short-answer assignment on Google Classroom by Monday 6/9 midnight.
 ### Reminders:
 - Relax!
 ### Tiger Team Schedule
@@ -64,7 +64,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Monday 6/9:</td>
     <td><span class="label label-green">LECTURE</span> Launch Day & Cohort Logistics and Setup </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1lEBZx2caSxG6StNIQpp0BSpN3QvzEuOdw5W_RYlZobY/edit?usp=sharing">Slides: Logistics & Setup + Slido</a></td>
   </tr>
 
   <tr>
