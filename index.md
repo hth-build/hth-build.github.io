@@ -18,7 +18,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 <b>Tiger Teams:</b> Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PT)
 
-<b>Instructors:</b> Anas Aly (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
+<b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
 ## Week 1 Announcements
 ### Assignments Due:
