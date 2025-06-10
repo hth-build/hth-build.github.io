@@ -22,7 +22,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 ## Week 1 Announcements
 ### Assignments Due:
-- Complete Check-in short-answer assignment on Google Classroom by Monday 6/9 midnight.
+- Complete <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_4HqGB6c6AbFeanc"> pre-program survey</a>. 
 ### Reminders:
 - Relax!
 ### Tiger Team Schedule
