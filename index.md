@@ -7,7 +7,7 @@ nav_order: 1
 # Welcome to Hack the Hood: Build!
 [Google Classroom](https://classroom.google.com/c/NzcyMTU1MzMxODkz?cjc=ryipn3jh){: .btn .btn-green }
 [Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-blue }
-[Slack Invite](https://join.slack.com/share/enQtOTAyNDYxMDYzNzYzNC1iNjJjOTQ5NjQ3ZjMwZDdkYWQxY2YzMDc5MzMxOTYwNDE5Y2QzZjIxMmQ4YWJlZmY2MzJjM2Y0NzM1ZWNmMGRl){: .btn .btn-purple }
+[Slack Invite](https://join.slack.com/t/hthsummer/shared_invite/zt-37iyxrxeo-2s0F9SfC1fGMqCDiWW8jFg){: .btn .btn-purple }
 
 
 Welcome to the course website for Hack the Hood's Build Program for Summer 2025 ☀️. We will be posting announcements, lecture slides, reminders, and additional resources here.
@@ -23,6 +23,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 ## Week 1 Announcements
 ### Assignments Due:
 - Complete <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_4HqGB6c6AbFeanc"> pre-program survey</a>. 
+- Complete SCRUM Sheet Assignment on Google Classroom (Due by the end of your Tiger Teams session)
 ### Reminders:
 - Relax!
 ### Tiger Team Schedule
