@@ -72,7 +72,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Wednesday 6/10 or Tuesday 6/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Environment Setup </td>
-    <td><a href="https://docs.google.com/presentation/d/1ebxk-WscVo-n-AXMM62zbI88XOoV7Y-UArpuBWaPOPw/edit?usp=share_link">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ebxk-WscVo-n-AXMM62zbI88XOoV7Y-UArpuBWaPOPw/edit?usp=share_link">1: SCRUM Slides</a>, <a href="https://drive.google.com/file/d/1LsdjVwxy5ED6T6CAcMQQZqjzLl5BX3yl/view?usp=sharing">2: Environment Checkpoint</a></td>
   </tr>
     <tr>
     <td>Thursday 6/12:</td>
