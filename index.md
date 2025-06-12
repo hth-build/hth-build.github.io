@@ -77,7 +77,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
     <tr>
     <td>Thursday 6/12:</td>
     <td><span class="label label-green">LECTURE</span>Discrepancies in Computer Science Education + Python Review</td>
-    <td><a href="https://play.kahoot.it/v2/?quizId=5922a08b-12b3-43a4-bc6d-8f935e4c8533&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/document/d/15-DN7nyCy9XPDK24ED91_1SS6IABOsJhJhCiFSZA-94/edit?usp=share_link">Discrepancies in CS Education</a>, <a href="https://docs.google.com/document/d/1rBz5hykmYjq89UhwA77_hf_bXkfTOT0PmwgmLMYojKM/edit?usp=sharing">Superhero Battle Simulator</a></td>
+    <td><a href="https://play.kahoot.it/v2/?quizId=5922a08b-12b3-43a4-bc6d-8f935e4c8533&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1oFRgB4Stk9MTwg0fD0XwmUSzELkHz8tmPRVsNxfbPVc/edit?usp=sharing">Discrepancies in CS Education</a>, <a href="https://docs.google.com/document/d/1rBz5hykmYjq89UhwA77_hf_bXkfTOT0PmwgmLMYojKM/edit?usp=sharing">Superhero Battle Simulator</a></td>
   </tr>
 </table>
 
