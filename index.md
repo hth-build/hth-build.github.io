@@ -20,12 +20,14 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
-## Week 1 Announcements
+## Week 2 Announcements
 ### Assignments Due:
-- Complete <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_4HqGB6c6AbFeanc"> pre-program survey</a>. 
-- Complete SCRUM Sheet Assignment on Google Classroom (Due by the end of your Tiger Teams session)
+
 ### Reminders:
-- Relax!
+- No lecture on Thursday for Juneteenth!
+- If you need laptop replacement or pickup, please come to the final opportunity on Tuesday, June 17 between 10:00 AM – 3:00 PM at:
+1721 Broadway, Oakland, CA
+- [Complete post workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header)
 ### Tiger Team Schedule
 [Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
 <table>
