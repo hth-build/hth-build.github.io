@@ -21,7 +21,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
 ## Week 3 Announcements
-- Resource for learning Python and object-oriented programming: https://proficientpython.com/index.html
+- Resource for learning Python and object-oriented programming: <a href=https://proficientpython.com/index.html> https://proficientpython.com/index.html</a>
 
 ### Reminders:
 - [Complete post workshop survey for Workshop 2](https://docs.google.com/forms/d/e/1FAIpQLSc9CCEcwFPEVh22A3yDxYJiWXSdiPFXFvHK8asOKZmHQDFdJA/viewform)
