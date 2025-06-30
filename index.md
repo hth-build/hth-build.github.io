@@ -141,8 +141,9 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Mon 6/30:</td>
     <td><span class="label label-green">LECTURE</span> Identity Dev Workshop 2 of 2 + Using Python for Data Science</td>
-    <td><a href="https://docs.google.com/presentation/d/1Ro4kkMT8oxaSaqMjfyiTEts7WOrjVuO-Ry3hv42PzNU/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1it1wuh8dGg5QLckcEfFS9WM8YVWAJX_0KltAcgpW2Rs/edit?usp=sharing">Learning Lab: Chipotle Data Analysis</a></td>
-  </tr>
+    <td><a href="https://docs.google.com/presentation/d/1Ro4kkMT8oxaSaqMjfyiTEts7WOrjVuO-Ry3hv42PzNU/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1it1wuh8dGg5QLckcEfFS9WM8YVWAJX_0KltAcgpW2Rs/edit?usp=sharing">Learning Lab: Chipotle Data Analysis</a>, <a href="https://github.com/hth-build/datasciencetutorial/blob/main/Data%20Science%20Tutorial.ipynb">Data Science Methods Tutorial on GitHub</a>
+  </tr></td>
+    
 
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
