@@ -141,12 +141,12 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Mon 6/30:</td>
     <td><span class="label label-green">LECTURE</span> Identity Dev Workshop 2 of 2 + Using Python for Data Science</td>
-    <td><a href="https://docs.google.com/presentation/d/1Ro4kkMT8oxaSaqMjfyiTEts7WOrjVuO-Ry3hv42PzNU/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1Qvu94w5OamtazMqtacVKux8ojk63tnpTEiytB0UXvrA/edit?usp=sharing">Learning Lab: Chipotle Data Analysis</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Ro4kkMT8oxaSaqMjfyiTEts7WOrjVuO-Ry3hv42PzNU/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1it1wuh8dGg5QLckcEfFS9WM8YVWAJX_0KltAcgpW2Rs/edit?usp=sharing">Learning Lab: Chipotle Data Analysis</a></td>
   </tr>
 
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> McDonald's Menu Data Analysis </td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Data Analysis for Social Change </td>
     <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://colab.research.google.com/drive/1UWncjMTTiXqA4Csb6RbQ-HoJG0izi78g?usp=sharing">Data Analysis for Social Change Colab</a></td>
   </tr>
     <tr>
