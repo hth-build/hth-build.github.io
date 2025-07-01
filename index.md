@@ -20,11 +20,12 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
-## Week 3 Announcements
-- Resource for learning Python and object-oriented programming: <a href="https://proficientpython.com/index.html"> https://proficientpython.com/index.html</a>
+## Week 4 Announcements
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSWPq4kSsNqLzuN7oKCbRavwUjyR-IWGM30_h0Juwyw8erGg/viewform">RSVP</a> for the field trip on July 17th at Workday
+- Submit Monday lecture exit ticket, Chipotle Data Analysis
 
 ### Reminders:
-- [Complete post workshop survey for Workshop 2](https://docs.google.com/forms/d/e/1FAIpQLSc9CCEcwFPEVh22A3yDxYJiWXSdiPFXFvHK8asOKZmHQDFdJA/viewform)
+- [Complete post workshop survey for Workshop 3](https://docs.google.com/forms/d/e/1FAIpQLSfO3T7-oxr_Jlbf3BpAxWrr4y9mWMgXe4RnLX9WVTuKikC8Ig/viewform)
   
 ### Tiger Team Schedule
 [Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
