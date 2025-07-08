@@ -20,12 +20,12 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
-## Week 4 Announcements
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSWPq4kSsNqLzuN7oKCbRavwUjyR-IWGM30_h0Juwyw8erGg/viewform">RSVP</a> for the field trip on July 17th at Workday
-- Submit Monday lecture exit ticket, Chipotle Data Analysis
+## Week 5 Announcements
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756">RSVP</a> for the field trip on July 17th at Workday (LAST DAY TO RSVP JULY 8)
 
 ### Reminders:
-- [Complete post workshop survey for Workshop 3](https://docs.google.com/forms/d/e/1FAIpQLSfO3T7-oxr_Jlbf3BpAxWrr4y9mWMgXe4RnLX9WVTuKikC8Ig/viewform)
+- Submit Monday lecture exit ticket
+- [Complete mid-program survey](https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756)
   
 ### Tiger Team Schedule
 [Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
@@ -170,7 +170,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Check Ins + COVID19 Data Analysis </td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1A9kN6RUCRjXv0_ydjNbh63D94QPWv62gm3QpBm2csDM/edit?gid=907513029#gid=907513029">SCRUM Slides</a>, <a href="">COVID19 Data Analysis</a>
+    <td><a href="https://docs.google.com/spreadsheets/d/1A9kN6RUCRjXv0_ydjNbh63D94QPWv62gm3QpBm2csDM/edit?gid=907513029#gid=907513029">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1YVICT5372Lv_ICSIBk1Y0blFw9uEeeuQ?usp=sharing">Colab: COVID19 Data Analysis</a>
     </td>
   </tr>
   <tr>
