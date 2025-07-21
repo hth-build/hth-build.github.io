@@ -210,7 +210,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Mon 7/21:</td>
     <td><span class="label label-green">LECTURE</span> Web Development + Digital Marketing Panel + Community Building</td>
-    <td><a href = "https://docs.google.com/presentation/d/1KAG3Lk6yXRa4E0vyRrsfuNBK_xKje1ELo9Mmz79Ctsg/edit?slide=id.p#slide=id.p">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/document/d/1bAJaNnuVRKZKxodZdT3Yw0qF4cdJps-J_RNgt3IEVaM/edit?tab=t.0#heading=h.ez614kabi8r5">Learning Lab: Bias in AI </a></td>
+    <td><a href = "https://docs.google.com/presentation/d/1QNZhrRxjhlkguYBq6o-5u1fZk8MjaID8tQcXKN0yDow/edit?usp=sharing">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/document/d/11LNXeqZa7dBrtrdevdCl3iWW7jJGUx3asXS-trG8Sss/edit?usp=sharing">Learning Lab: Bias in AI </a></td>
   </tr>
   <tr>
     <td>Tues 7/22 or Wed 7/23:</td>
