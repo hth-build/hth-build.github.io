@@ -21,11 +21,10 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Aitanna Parker (<a href="mailto:aitanna@hackthehood.org">aitanna@hackthehood.org</a>)  
 
 ## Week 8 Announcements
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756"><>
-
 ### Reminders:
-- Submit Monday lecture exit ticket
+- Submit Monday lecture exit ticket.
 - [Complete pre-async program survey](https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756)
+- Submit your TI's async Google Form.
   
 ### Tiger Team Schedule
 [Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
