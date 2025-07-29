@@ -20,12 +20,12 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Aitanna Parker (<a href="mailto:aitanna@hackthehood.org">aitanna@hackthehood.org</a>)  
 
-## Week 5 Announcements
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756">RSVP</a> for the field trip on July 17th at Workday (LAST DAY TO RSVP JULY 8)
+## Week 8 Announcements
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756"><>
 
 ### Reminders:
 - Submit Monday lecture exit ticket
-- [Complete mid-program survey](https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756)
+- [Complete pre-async program survey](https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756)
   
 ### Tiger Team Schedule
 [Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
@@ -221,7 +221,7 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
   <tr>
     <td>Thurs 7/24:</td>
     <td><span class="label label-green">LECTURE</span> Social Media + the Egyptian Revolution + Terminal </td>
-    <td><a href="">Social Media and the Egyptian Revolution Slides</a>, <a href ="https://docs.google.com/presentation/d/1unpM5CfKc0LcUa6oIDKaL2v7iOdDxGKf8y-vRxD0TGk/edit?slide=id.g120e43809ab_0_156#slide=id.g120e43809ab_0_156">Understanding Your Work Environment Slides</a>, <a href ="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Terminus Game</a> 
+    <td><a href="">Social Media and the Egyptian Revolution Slides</a>, <a href ="https://docs.google.com/presentation/d/1h2RkzZLrpumF4Ifg82nzux9x7VpOkQE2Es-ACSBSG5E/edit?usp=sharing">Understanding Your Work Environment Slides</a>, <a href ="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Terminus Game</a> 
     </td>
   </tr>
 </table>
