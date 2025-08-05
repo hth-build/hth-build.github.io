@@ -20,42 +20,55 @@ Welcome to the course website for Hack the Hood's Build Program for Summer 2025 
 
 <b>Instructors:</b> [Anas Aly](https://anas.page/) (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Aitanna Parker (<a href="mailto:aitanna@hackthehood.org">aitanna@hackthehood.org</a>)  
 
-## Week 8 Announcements
+## Week 9 Announcements
 ### Reminders:
-- Submit Monday lecture exit ticket.
-- [Complete pre-async program survey](https://docs.google.com/forms/d/e/1FAIpQLSdNctZGP65B-MQqgpbHIqbUvbLe1VpImbT7pXfGl4IkwArx0g/viewform?usp=sharing&ouid=113797772518890083756)
-- Submit your TI's async Google Form.
-  
-### Tiger Team Schedule
-[Find your tiger team group](https://docs.google.com/presentation/d/17pZvgIhTTVqo3cV0rRgndaz5jiJ9K_DvNxsFmBAxQVQ/edit?usp=sharing){: .btn .btn-purple }
+
+### Asynchronous Tiger Team Schedule
+
 <table>
   <tr>
-    <td><b>Tiger Team Color</b></td>
-    <td><b>Tiger Team Time</b></td>
+    <td style=""><b>Tiger Team Color - Instructor</b></td>
+    <td style=""><b>New Async Tiger Team Time</b></td>
   </tr>
   <tr>
-    <td style="background-color: #FF7F7F;">Red Tiger Team</td>
-    <td style="background-color: #FF7F7F;">Tuesdays 10am-12pm PT</td>
+    <td style="background-color: #90EE90; color: black;">Green Tiger Team - Anas</td>
+    <td style="background-color: #90EE90; color: black;">Monday 3:30–5:30pm</td>
   </tr>
   <tr>
-    <td style="background-color: #ADD8E6;">Blue Tiger Team</td>
-    <td style="background-color: #ADD8E6;">Tuesdays 1pm-3pm PT</td>
-  </tr>
-    <tr>
-    <td style="background-color: #D8BFD8;">Purple Tiger Team</td>
-    <td style="background-color: #D8BFD8;">Tuesdays 4pm-6pm PT</td>
-  </tr>
-    <tr>
-    <td style="background-color: #F0E68C;">Yellow Tiger Team</td>
-    <td style="background-color: #F0E68C;">Wednesdays 10am-12pm PT</td>
+    <td style="background-color: #D8BFD8; color: black;">Purple Tiger Team - Anas</td>
+    <td style="background-color: #D8BFD8; color: black;">Monday 9:30–11:30am</td>
   </tr>
   <tr>
-    <td style="background-color: #90EE90;">Green Tiger Team</td>
-    <td style="background-color: #90EE90;">Wednesdays 1pm-3pm PT</td>
+    <td style="background-color: #FFA500; color: black;">Orange Tiger Team - Aitanna</td>
+    <td style="background-color: #FFA500; color: black;">Monday 9:00–11:00am (PT)</td>
   </tr>
   <tr>
-    <td style="background-color: #FFD580;">Orange Tiger Team</td>
-    <td style="background-color: #FFD580;">Wednesdays 4pm-6pm PT</td>
+    <td style="background-color: #FF6EC7; color: black;">Neon Tiger Team - Anas</td>
+    <td style="background-color: #FF6EC7; color: black;">Thursday 3:00–5:00pm</td>
+  </tr>
+  <tr>
+    <td style="background-color: #D3D3D3; color: black;">Gray Tiger Team - Anas</td>
+    <td style="background-color: #D3D3D3; color: black;">Thursday 5:00–7:00pm</td>
+  </tr>
+  <tr>
+    <td style="background-color: #FF7F7F; color: black;">Red Tiger Team - Aitanna</td>
+    <td style="background-color: #FF7F7F; color: black;">Monday 4:00–6:00pm (PT)</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ADD8E6; color: black;">Blue Tiger Team - Aitanna</td>
+    <td style="background-color: #ADD8E6; color: black;">Thursday 3:45–5:45pm (PT)</td>
+  </tr>
+  <tr>
+    <td style="background-color: #F0E68C; color: black;">Yellow Tiger Team - Aitanna</td>
+    <td style="background-color: #F0E68C; color: black;">Tuesday 11:00am–1:00pm (PT)</td>
+  </tr>
+  <tr>
+    <td style="background-color: #FFB6C1; color: black;">Pink Tiger Team - Aitanna</td>
+    <td style="background-color: #FFB6C1; color: black;">Thursday 1:30–3:30pm (PT)</td>
+  </tr>
+  <tr>
+    <td style="background-color: #008080; color: black;">Teal Tiger Team - Anas</td>
+    <td style="background-color: #008080; color: black;">Wednesday 3:30–5:30pm</td>
   </tr>
 </table>
 
